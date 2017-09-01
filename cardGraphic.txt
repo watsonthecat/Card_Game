@@ -1,0 +1,11 @@
+
+It's a card!
+ ____
+|    |
+| x* |
+|____|
+
+
+
+x = rank
+* = unicode suit(if they are visible in console application?)
