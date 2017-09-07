@@ -12,7 +12,7 @@ def display_menu_get_choice():
 
     print('''
         1. Start Game
-        2. Rules + Tips
+        2. Rules + Tips (This is not a feature yet)
         q. Quit
     ''')
 
